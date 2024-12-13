@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.Scanner;
 
- Model Classes
+// Model Classes
 class Patient {
     int id;
     String name;
@@ -197,3 +197,4 @@ public class HospitalManagementSystem {
         }
     }
 }
+
